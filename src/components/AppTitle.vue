@@ -2,9 +2,12 @@
 export default {
     data(){
         return{
-            message: "La mia prima app con Vite!",
+            message: "La mia prima app con Vite",
         }
-    }
+    },
+    methods:{
+
+    },
 }
 </script>
 
